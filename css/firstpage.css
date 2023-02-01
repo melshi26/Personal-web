@@ -1,0 +1,26 @@
+html {
+    background-color: lavender;
+    font-family: "Georgia", sans-serif;
+}
+
+body {
+    background-color: lavenderblush;
+    width: 600 px;
+    margin: 1 auto;
+    border: 5 px solid black; 
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+ font-size: 70px;
+    text-align: center;
+}
+
+p {
+    display: inline;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20 px 0;
+    letter-spacing:3px;
+    color: chocolate;
+}

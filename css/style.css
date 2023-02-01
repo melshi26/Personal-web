@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(100, 150, 50);
+    font-family: "Comic sans", sans-serif;
+}
+
+body {
+    background-color: #FF9500;
+    width: 600 px;
+    margin: 0 auto;
+    border: 5 px solid black; 
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    display: inline;
+    font-size: 18px;
+    line-height: 2;
+    padding: 20 px 0;
+    letter-spacing:5px;
+}
+
+li {
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing:5 px;
+}
+.bold {
+    font-weight: bold;
+}
+p.bold {
+    text-decoration: underline;
+}
+li.bold {
+    font-style: italic;
+}
+
+#plug {
+    color:blueviolet;
+}
+
+img {
+display: block;
+width: 70%;
+margin: 0 auto;
+}
+
+div.coolbox {
+border: lightblue dotted 3px;
+padding: 20px;
+margin: 10px
+}
+
+.lang {
+font-family: 'Courier New', Courier, monospace
+}
